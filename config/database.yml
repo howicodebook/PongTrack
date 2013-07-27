@@ -41,8 +41,6 @@ test:
   encoding: unicode
   database: pongtracker_test
   pool: 5
-  username: pongtracker
-  password:
 
 production:
   adapter: postgresql
